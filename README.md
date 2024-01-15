@@ -25,7 +25,7 @@
 - Pile en classe (exo 2)
 - Notation polonaise inverse (exo 3)
 - File en classe (exo 7)
-- ArrayList
+- ArrayList ? 
 
 # TP 4 - (Listes chaînées)
 
